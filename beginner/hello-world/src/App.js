@@ -4,6 +4,11 @@ import './App.css';
 import './Subpage.css';
 
 class App extends Component {
+  // now I create render for Components
+  /*render() {
+    return (<div className="Spec">We create a new and new world</div>);
+  } */
+
   //render content to show
   render() {
     return (
